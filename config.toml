@@ -1,4 +1,4 @@
-baseURL = "https://kyusukegani.netlify.com/"
+baseURL = "https://kyusukegani.netlify.app/"
 languageCode = "en-us"
 title = "Tech Kegani"
 theme = "dimension"
